@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=F1-2
+Added Component: Designator=RV1(D9W4.5H12P0.8)
+Add component (AddParameter): Name = "(Reverse) Breakdown Voltage"; Value = "22V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "(Reverse) Peak Pulse Current"; Value = "250A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Surge Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Input Capacitance"; Value = "2930pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "43V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/820571406?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/820571406?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Energy Absorption"; Value = "1.4J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "820571406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-VD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage (AC)"; Value = "14V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "0.02W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=RV1-2
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=RV1-1
+Added Net: Name=NetP1_2
+Added Member To Class: ClassName=Homework Member=Component RV1 14VAC, 18VDC
+Added Room: Name=Homework

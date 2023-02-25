@@ -1,0 +1,7 @@
+Added Component: Designator=D?(D1A)
+Added Pin To Net: NetName=+12 Pin=D?-2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=F1-2
+Added Pin To Net: NetName=NetD?_1 Pin=F1-2
+Added Net: Name=NetD?_1
+Added Member To Class: ClassName=Homework Member=Component D? Diode

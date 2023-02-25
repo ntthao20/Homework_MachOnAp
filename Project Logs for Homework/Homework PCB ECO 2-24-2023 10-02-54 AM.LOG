@@ -1,0 +1,15 @@
+Added Component: Designator=F1(FUSE)
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Pin To Net: NetName=NetD1_1 Pin=F1-2
+Added Pin To Net: NetName=NetD1_1 Pin=F1-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=P1-2
+Added Net: Name=NetF1_1
+Add Class Member: Failed to add class member : Component D1 Diode
+Added Member To Class: ClassName=Homework Member=Component F1 Fuse
+Add Class Member: Failed to add class member : Component U1 Positive Fixed Voltage regulator

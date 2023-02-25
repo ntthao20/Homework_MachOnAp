@@ -1,0 +1,8 @@
+Added Component: Designator=UN1(QTO-220)
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Pin To Net: NetName=+12 Pin=UN1-1
+Added Pin To Net: NetName=GND Pin=UN1-2
+Added Pin To Net: NetName=+5 Pin=UN1-3
+Add Class Member: Failed to add class member : Component D1 Diode
+Added Member To Class: ClassName=Homework Member=Component UN1 LM7805
